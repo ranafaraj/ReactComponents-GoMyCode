@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+
+}
+
+.red{
+    color: red;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+video{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
